@@ -1,7 +1,7 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Howrah Express",
 			"stops": [
 				{
 					"station": "Sycamore",
@@ -18,7 +18,7 @@
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Chennai Express",
 			"stops": [
 				{
 					"station": "Pine",
@@ -37,7 +37,7 @@
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Shatabdi Express",
 			"stops": [
 				{
 					"station": "Sycamore",
@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			"name": "Golden Arrow",
+			"name": "Gareeb Rath",
 			"stops": [
 				{
 					"station": "Cypress",
